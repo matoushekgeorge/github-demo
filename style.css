@@ -1,4 +1,6 @@
 body {
     background-color: rgb(9, 9, 9);
-    color: rgb(151, 88, 88);
+    
 }
+
+h1 {text-decoration: underline;}
